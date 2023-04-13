@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main_data_type() {
 	// Tipe data numerik non Desimal
 	// var bilanganBulat uint8 = 28
 	
