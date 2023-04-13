@@ -10,5 +10,6 @@ func main() {
 	firstName = "Aku"
 	// Sedangkan Constant tidak bisa Input ulang atau ganti
 	// lastName = "Welcome"
+	
 	fmt.Print("halo ", firstName, lastName, "!\n") 
 }
