@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main_constant() {
 	var firstName string = "Hello"
 	const lastName = "World"
 
@@ -10,6 +10,6 @@ func main() {
 	firstName = "Aku"
 	// Sedangkan Constant tidak bisa Input ulang atau ganti
 	// lastName = "Welcome"
-	
+
 	fmt.Print("halo ", firstName, lastName, "!\n") 
 }
