@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main_() {
+func main() {
 	var avg = calculate(2, 4, 3, 5, 4, 3, 3, 5, 5, 3)
 	var msg = fmt.Sprintf("Rata-rata : %.2f", avg)
 	fmt.Println(msg)
